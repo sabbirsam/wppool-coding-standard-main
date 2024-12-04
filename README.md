@@ -1,4 +1,4 @@
-# WPPOOL Coding Standard 3
+# Working Coding Standard 3
 Coding Standard for WPPOOL WordPress Plugins and Themes.
 Compatible with WPCS 3.0
 
